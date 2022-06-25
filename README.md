@@ -1,10 +1,10 @@
-# COMPAS II
+# Digital Futures 2022 WS
 
-> 064-0026-00L Introduction to Computational Methods for Digital Fabrication in Architecture
+> Programmings for digital fabrication in architecture with compas
 
-This PhD-level course introduces digital fabrication methods and tools building up on the theoretical and practical knowledge acquired in the prerequisite course. Students learn fundamentals of robotics, robot kinematics and planning, and basics of robot control applied in the domain of architecture and digital fabrication using the COMPAS framework and open source tools.
+This is a hands-on style workshop to introduce basics of COMPAS, a python framework developed at ETH Zurich aiming to construct continuous workflow from computatoinal design to robotic fabrication. Depending on the procedure of WS, the host will introduce fundamentals of COMPAS FAB: a robotic fabrication package providing interface to ROS. This allows us to simulate robotic motions in Rhinoceros and Grasshopper without actual robot. At the end of this workshop, participants will learn the principle of COMPAS and its application to robotic fabrication. スイス連邦工科大を中心に開発中のパイソンフレームワーク、”COMPAS”の入門ワークショップ。”COMPAS”の基礎から始まり、進捗に応じて拡張機能の一つ、”COMPAS FAB”の紹介も予定。RhinocerosやGrasshopper上でロボットアームのシミュレーションが可能になります。急速な広がりを見せる”COMPAS”をベースに、コンピューテーショナルデザインからロボッティクファブリケーションまでをカバーする入門ワークショップ。
 
-## Schedule, FS 2022
+## Schedule, DF 2022
 
 | Lecture | Date   | Session content                                                                                                                                                                                                                                                                                                                                                                                                                          | Session leads      |
 |---------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
