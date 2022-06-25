@@ -11,7 +11,7 @@ This is a hands-on style workshop to introduce basics of COMPAS, a python framew
 | 01      | 28.06. | **Introduction**<br>Introduction to digital fabrication methods and the COMPAS ecosystem for digital fabrication: core, fab, rrc, slicer.<br>Brief overview of core data structures (network, mesh).<br>Remote procedure calls.<br>👉[Go to lecture](lecture_01/README.md)                                                                                                                                                               | All                |
 | 02      | 29.06. | **Robotic fundamentals**<br>Introduction to robotics: anatomy of an industrial robot, coordinate systems, transformations.<br>Brief intro to kinematic functions and path planning.<br>👉[Go to lecture](lecture_02/README.md)                                                                                                                                                                                                           | GKR (RR, GC)       |
 | 03      | 30.06. | **Robot models**<br>Models from URDF, programmatic models.<br>Robot model visualization in Rhino / Grasshopper.<br>Forward kinematics of open chain manipulators.<br>Assignment: model your own robot.<br>👉[Go to lecture](lecture_03/README.md)                                                                                                                                                                                        | GKR (RR, GC)       |
-                                                                                                  | GKR (RR, GC)       |
+
 
 ## Information
 
@@ -31,10 +31,10 @@ Links:
 
 ### Content
 
-Lectures, tutorials and project-based exercises will focus on:
+Lectures, tutorials and exercises will focus on:
 
 * Introduction to fundamentals of robotics.
-* Introduction to COMPAS framework and core extensions for digital fabrication (fab, rrc, slicer)
+* Introduction to COMPAS framework and core extensions for digital fabrication (fab)
 * Robot model representations.
 * Robot forward and inverse kinematics.
 * Robot path planning: Cartesian motion planning and kinematic motion planning, planning scene and collision detection.
