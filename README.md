@@ -61,6 +61,8 @@ Make sure you run this at least once:
 
     (base) conda config --add channels conda-forge
 
+![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%201%20add%20conda%20forge.PNG)
+
 </p>
 </details>
 
