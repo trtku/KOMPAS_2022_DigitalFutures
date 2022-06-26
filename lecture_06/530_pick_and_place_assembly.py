@@ -34,7 +34,7 @@ def get_pick_frame(part_key):
 
 
 def get_place_frame(part_key):
-    return Frame((0.4, 0.3, 0.05), (-1, 0, 0), (0, 1, 0))
+    return Frame((0.4-(0.04*int(part_key)), 0.3, 0.05), (-1, 0, 0), (0, 1, 0))
 
 
 def get_part_frame(part_key):
@@ -60,7 +60,7 @@ def get_part_shape(part_key):
 
 
 def get_number_of_parts():
-    return 2
+    return 5
 
 
 def get_tolerance_joints():
