@@ -70,7 +70,7 @@ Make sure you run this at least once:
 
     (base) conda create -n df2022 -c conda-forge compas compas_fab
 
-![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%201%20add%20conda%20forge.PNG)
+    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%201%20add%20conda%20forge.PNG)
 
 
 1.  Add to Rhino / ライノセラスにコンパスをインストールする
