@@ -93,11 +93,11 @@ Make sure you run this at least once:
     ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%206%20go%20to%20path.PNG)
     ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%207%20git%20clone.PNG)
 
-    2.  go to the folder that you have just cloned / クローンしたフォルダに移動する
-        ```
-        (df2022) cd KOMPAS_2022_DigitalFutures
-        ```
-        ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%208%20go%20deeper.PNG)
+1.  go to the folder that you have just cloned / クローンしたフォルダに移動する
+    ```
+    (df2022) cd KOMPAS_2022_DigitalFutures
+    ```
+    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%208%20go%20deeper.PNG)
 
 
 1.  Verify installation / インスタレーションの確認
@@ -131,4 +131,4 @@ Arranged by Ko Tsuruta (<trtku0809@gmail.com>); with the help of Gonzalo Casas (
 
 本レポジトリはスイス連邦工科大で行われているCOMPASコースをもとにDigitalFUTURES2022ワークショップ用にアレンジをしたものです。
 
-アレンジはGonzalo　Casasサポートのもと、鶴田航が行いました。
+アレンジはGonzalo Casasサポートのもと、鶴田航が行いました。
