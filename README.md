@@ -64,17 +64,19 @@ Make sure you run this at least once:
 </p>
 </details>
 
+Create a environment with compas and compas_fab / 必要なライブラリとともに環境を構築する
+
     (base) conda create -n df2022 -c conda-forge compas compas_fab
 
-### Add to Rhino
+### Add to Rhino / ライノセラスにコンパスをインストールする
 
     (base)   conda activate fs2022
     (fs2022) python -m compas_rhino.install -v 7.0
 
-### Get the workshop files
+### Get the workshop files / 本ワークショップ用のファイルをクローンする
 
-    (fs2022) cd Documents
-    (fs2022) git clone https://github.com/compas-teaching/COMPAS-II-FS2022
+    (fs2022) cd PATH_TO_YOUR_WORKING_DIRECTORY
+    (fs2022) git clone https://github.com/trtku/KOMPAS_2022_DigitalFutures.git
 
 ### Verify installation
 
