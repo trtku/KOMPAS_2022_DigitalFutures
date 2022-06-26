@@ -53,7 +53,7 @@ Lectures, tutorials and exercises will focus on / WSでは以下の内容に焦�
 We use `conda` to make sure we have clean, isolated environment for dependencies.
 独立した簡潔な環境を構築するため、`conda`を使用します。
 
-<details><summary>First time using <code>conda</code>? / 初めてを使用する場合<code>conda</code></summary>
+<details><summary>First time using <code>conda</code>? / 初めて<code>conda</code>を使用する場合</summary>
 <p>
 
 Make sure you run this at least once:
@@ -64,7 +64,7 @@ Make sure you run this at least once:
 </p>
 </details>
 
-    (base) conda env create -f https://dfab.link/fs2022.yml
+    (base) conda create -n df2022 -c conda-forge compas compas_fab
 
 ### Add to Rhino
 
