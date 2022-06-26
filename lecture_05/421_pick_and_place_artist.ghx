@@ -48,10 +48,10 @@
             <chunk name="Projection">
               <items count="2">
                 <item name="Target" type_name="gh_drawing_point" type_code="30">
-                  <X>-4</X>
-                  <Y>-148</Y>
+                  <X>134</X>
+                  <Y>-27</Y>
                 </item>
-                <item name="Zoom" type_name="gh_single" type_code="5">0.340613574</item>
+                <item name="Zoom" type_name="gh_single" type_code="5">0.289521426</item>
               </items>
             </chunk>
             <chunk name="Views">
@@ -73,8 +73,8 @@
           <chunks count="1">
             <chunk name="Library" index="0">
               <items count="6">
-                <item name="AssemblyFullName" type_name="gh_string" type_code="10">GhPython, Version=7.16.22067.13001, Culture=neutral, PublicKeyToken=null</item>
-                <item name="AssemblyVersion" type_name="gh_string" type_code="10">7.16.22067.13001</item>
+                <item name="AssemblyFullName" type_name="gh_string" type_code="10">GhPython, Version=7.19.22165.13001, Culture=neutral, PublicKeyToken=null</item>
+                <item name="AssemblyVersion" type_name="gh_string" type_code="10">7.19.22165.13001</item>
                 <item name="Author" type_name="gh_string" type_code="10"></item>
                 <item name="Id" type_name="gh_guid" type_code="9">00000000-0000-0000-0000-000000000000</item>
                 <item name="Name" type_name="gh_string" type_code="10"></item>
@@ -142,7 +142,7 @@ COMPAS FAB v0.22.0</item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="564">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEAAACxABrSO9dQAAAdZJREFUSEu1lD2O4kAQRrkBcwP2BnADfARuABEhcAMcEEyCQKuVCCEkY27A3ADCyUAimQyHm/V+r9bNNp5iSLwtPWF/9dvdZRohhP+KK9aJK9aJK9aJKzpk4k08W4XYiB/CYquJPJbX6zVMp9PQbrcV0XhIt9sN6/VaIVZoQLyXMGVC8piYXwp5jMfj0Gq1zK/f7yvUVsdLGnkRBV0RlHT2/g2WHH+KonmJI4PD4ZA6HwVFPd9IR1hTzWZTj76Tcjay1Wr1QWIKnE6n0Ov17DnhXeSiWnTJbvHZ7/d3BkNrg3E2m/2OBbiH4XCITkLg+YhNnMVtakRuib0CWgMMYlMUxetutzPH8vwZ00f+HB8auznHe6CxagDdnMt3ztPOkunAWYsiPcF3YYxGo19ZloXtdvtT78d4b9yDVpEmf8Eg8qiJt7gLCi0WC9v2IxjV6Mu9aU3SAh2MYhI1wZaPBMcZfwadl8n5oqX8Sya7OZkhgSJoge1Xu04pE/Ot3E4hTUQBmyDB+d7ZBIU4f4INBmE+n3/meR4ul8tS2pe4+5e/91CURRjH7BuYIIYCX/vf8fgqaKYFHxEvz6CZh8nBFUGLQl7nN7y4Kq5YJ65YJ65YJ65YH6HxB7b14P1B22tpAAAAAElFTkSuQmCC</bitmap>
+                      <bitmap length="564">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAAdZJREFUSEu1lD2O4kAQRrkBcwP2BnADfARuABEhcAMcEEyCQKuVCCEkY27A3ADCyUAimQyHm/V+r9bNNp5iSLwtPWF/9dvdZRohhP+KK9aJK9aJK9aJKzpk4k08W4XYiB/CYquJPJbX6zVMp9PQbrcV0XhIt9sN6/VaIVZoQLyXMGVC8piYXwp5jMfj0Gq1zK/f7yvUVsdLGnkRBV0RlHT2/g2WHH+KonmJI4PD4ZA6HwVFPd9IR1hTzWZTj76Tcjay1Wr1QWIKnE6n0Ov17DnhXeSiWnTJbvHZ7/d3BkNrg3E2m/2OBbiH4XCITkLg+YhNnMVtakRuib0CWgMMYlMUxetutzPH8vwZ00f+HB8auznHe6CxagDdnMt3ztPOkunAWYsiPcF3YYxGo19ZloXtdvtT78d4b9yDVpEmf8Eg8qiJt7gLCi0WC9v2IxjV6Mu9aU3SAh2MYhI1wZaPBMcZfwadl8n5oqX8Sya7OZkhgSJoge1Xu04pE/Ot3E4hTUQBmyDB+d7ZBIU4f4INBmE+n3/meR4ul8tS2pe4+5e/91CURRjH7BuYIIYCX/vf8fgqaKYFHxEvz6CZh8nBFUGLQl7nN7y4Kq5YJ65YJ65YJ65YH6HxB7b14P1B22tpAAAAAElFTkSuQmCC</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">6e67028e-8fe9-4106-b9ef-f9728b6e0638</item>
@@ -340,7 +340,7 @@ COMPAS FAB v0.22.0</item>
                     <item name="NickName" type_name="gh_string" type_code="10">Toggle</item>
                     <item name="Optional" type_name="gh_bool" type_code="1">false</item>
                     <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
-                    <item name="ToggleValue" type_name="gh_bool" type_code="1">false</item>
+                    <item name="ToggleValue" type_name="gh_bool" type_code="1">true</item>
                   </items>
                   <chunks count="1">
                     <chunk name="Attributes">
@@ -405,7 +405,7 @@ COMPAS FAB v0.22.0</item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="441">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEAAACxABrSO9dQAAAVtJREFUSEu9lMFRwzAQRVMCJaSElJASUgIlUAGTEhguXHPinBJSAiWkBDow/9n6ZmWtQzwYduaNpdVqtf5redN13Z+SOtckdS5B9iCeeKbrmXMJsrNg8CkOzXo1Gao5iYtg4z6uR2SP4iqY+Ans3Y5xk00sTjfsBcmOgbjOmMK2wvs/mgNKQL8o3sRzmb8Iy5BRySLbifHNpwsM3gWHvJY5ByAb44xKRtkoTz+vJkNiBn7CQXAIr29oqNd7OWTIhHxMrmNOD0oQb2EdSYL2VUUlDjlJ5kKQMDa8lahsdEPdNFfUHFLiiYsNJ766D9WG3lHLYy7TOCOjEArLi2gcQ7ATR2bvxC1yZ/7VjI1bQu4cXjt+KeaYxd8idQLJQmLDoelPbY7UaWTxCzGnLHaO1Glkv2546xhubUz2E8i2m+YxreP7Ji9htvmt4x8O4Ffhn9q93C/R2qTO9eg2XxfZxOCoCLXEAAAAAElFTkSuQmCC</bitmap>
+                      <bitmap length="441">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAAVtJREFUSEu9lMFRwzAQRVMCJaSElJASUgIlUAGTEhguXHPinBJSAiWkBDow/9n6ZmWtQzwYduaNpdVqtf5redN13Z+SOtckdS5B9iCeeKbrmXMJsrNg8CkOzXo1Gao5iYtg4z6uR2SP4iqY+Ans3Y5xk00sTjfsBcmOgbjOmMK2wvs/mgNKQL8o3sRzmb8Iy5BRySLbifHNpwsM3gWHvJY5ByAb44xKRtkoTz+vJkNiBn7CQXAIr29oqNd7OWTIhHxMrmNOD0oQb2EdSYL2VUUlDjlJ5kKQMDa8lahsdEPdNFfUHFLiiYsNJ766D9WG3lHLYy7TOCOjEArLi2gcQ7ATR2bvxC1yZ/7VjI1bQu4cXjt+KeaYxd8idQLJQmLDoelPbY7UaWTxCzGnLHaO1Glkv2546xhubUz2E8i2m+YxreP7Ji9htvmt4x8O4Ffhn9q93C/R2qTO9eg2XxfZxOCoCLXEAAAAAElFTkSuQmCC</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">78c086d8-2871-4745-8b1d-0a76b58b6e69</item>
@@ -546,7 +546,7 @@ COMPAS FAB v0.22.0</item>
                     <item name="NickName" type_name="gh_string" type_code="10">Toggle</item>
                     <item name="Optional" type_name="gh_bool" type_code="1">false</item>
                     <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
-                    <item name="ToggleValue" type_name="gh_bool" type_code="1">false</item>
+                    <item name="ToggleValue" type_name="gh_bool" type_code="1">true</item>
                   </items>
                   <chunks count="1">
                     <chunk name="Attributes">
@@ -757,7 +757,7 @@ COMPAS FAB v0.22.0</item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="566">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEAAACxABrSO9dQAAAdhJREFUSEu1lLFKA0EQhlUIQVBMOhGLgGAtxAcIYmmRJpWNrZ2dhSCWqURtxC6VRSofIYWlhS8QyBMEOzvP/zt2jtm9VSLEg+9ud2bnn9nZu1spiuJfyRqXSdb4F3ZvX1vigmfOXzP8FQm/iEJ8iH7qjyZUIUZiIgjseb9HvjMxE4jbE4jt2Lo0CGca0BOI3Ti8nzGFdYTFv9cShAWlUzyK6zC/E9aGHFFbND8Q1c5TBwHPgiQPYU4C2uZFPVEbNa/aA9wqg5wIE2RP6AuSsH2DAzV/2Q49aRPtwzYzTW5VBXKwC+sjIvQ+qiiso52IWSG00B941CKfwA7UDs0qqiUJ61nnD5z10ffALe2hb48x8Ws88lEIhWWLqBnC4jQBRIUsStYosdxbUx6croFgAJcWo6st5sE+ruw28EiMbfs3xbjBnxWKEw8quw1SEEvEgaQtCQydWJv1zjb3OpFoisT8G2KMJNINYlBWq8t2NfQakWCKxH48cAlNg+CT8AmPvUYkCArmq82JRmydnJeCa+sbX42dvfsgPk31ogko2L7kX9m+GpcJYLXR/AzjqD0QTUDBCyWA5v5hlSTQTfWiCSiQX4X91H5l8+jUzgHeUi2oGZZN1rg8ipVvhzuVIxcFIsQAAAAASUVORK5CYII=</bitmap>
+                      <bitmap length="566">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAAdhJREFUSEu1lLFKA0EQhlUIQVBMOhGLgGAtxAcIYmmRJpWNrZ2dhSCWqURtxC6VRSofIYWlhS8QyBMEOzvP/zt2jtm9VSLEg+9ud2bnn9nZu1spiuJfyRqXSdb4F3ZvX1vigmfOXzP8FQm/iEJ8iH7qjyZUIUZiIgjseb9HvjMxE4jbE4jt2Lo0CGca0BOI3Ti8nzGFdYTFv9cShAWlUzyK6zC/E9aGHFFbND8Q1c5TBwHPgiQPYU4C2uZFPVEbNa/aA9wqg5wIE2RP6AuSsH2DAzV/2Q49aRPtwzYzTW5VBXKwC+sjIvQ+qiiso52IWSG00B941CKfwA7UDs0qqiUJ61nnD5z10ffALe2hb48x8Ws88lEIhWWLqBnC4jQBRIUsStYosdxbUx6croFgAJcWo6st5sE+ruw28EiMbfs3xbjBnxWKEw8quw1SEEvEgaQtCQydWJv1zjb3OpFoisT8G2KMJNINYlBWq8t2NfQakWCKxH48cAlNg+CT8AmPvUYkCArmq82JRmydnJeCa+sbX42dvfsgPk31ogko2L7kX9m+GpcJYLXR/AzjqD0QTUDBCyWA5v5hlSTQTfWiCSiQX4X91H5l8+jUzgHeUi2oGZZN1rg8ipVvhzuVIxcFIsQAAAAASUVORK5CYII=</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">1283adf7-be90-4c9c-bb0a-8fef0770a63b</item>
@@ -771,13 +771,13 @@ COMPAS FAB v0.22.0</item>
                       <items count="2">
                         <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                           <X>2450</X>
-                          <Y>548</Y>
+                          <Y>629</Y>
                           <W>261</W>
                           <H>204</H>
                         </item>
                         <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                           <X>2601</X>
-                          <Y>650</Y>
+                          <Y>731</Y>
                         </item>
                       </items>
                     </chunk>
@@ -823,13 +823,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2452</X>
-                                  <Y>550</Y>
+                                  <Y>631</Y>
                                   <W>134</W>
                                   <H>20</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2520.5</X>
-                                  <Y>560</Y>
+                                  <Y>641</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -853,13 +853,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2452</X>
-                                  <Y>570</Y>
+                                  <Y>651</Y>
                                   <W>134</W>
                                   <H>20</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2520.5</X>
-                                  <Y>580</Y>
+                                  <Y>661</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -884,13 +884,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2452</X>
-                                  <Y>590</Y>
+                                  <Y>671</Y>
                                   <W>134</W>
                                   <H>20</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2520.5</X>
-                                  <Y>600</Y>
+                                  <Y>681</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -915,13 +915,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2452</X>
-                                  <Y>610</Y>
+                                  <Y>691</Y>
                                   <W>134</W>
                                   <H>20</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2520.5</X>
-                                  <Y>620</Y>
+                                  <Y>701</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -945,13 +945,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2452</X>
-                                  <Y>630</Y>
+                                  <Y>711</Y>
                                   <W>134</W>
                                   <H>20</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2520.5</X>
-                                  <Y>640</Y>
+                                  <Y>721</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -975,13 +975,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2452</X>
-                                  <Y>650</Y>
+                                  <Y>731</Y>
                                   <W>134</W>
                                   <H>20</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2520.5</X>
-                                  <Y>660</Y>
+                                  <Y>741</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -1005,13 +1005,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2452</X>
-                                  <Y>670</Y>
+                                  <Y>751</Y>
                                   <W>134</W>
                                   <H>20</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2520.5</X>
-                                  <Y>680</Y>
+                                  <Y>761</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -1035,13 +1035,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2452</X>
-                                  <Y>690</Y>
+                                  <Y>771</Y>
                                   <W>134</W>
                                   <H>20</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2520.5</X>
-                                  <Y>700</Y>
+                                  <Y>781</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -1065,13 +1065,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2452</X>
-                                  <Y>710</Y>
+                                  <Y>791</Y>
                                   <W>134</W>
                                   <H>20</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2520.5</X>
-                                  <Y>720</Y>
+                                  <Y>801</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -1095,13 +1095,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2452</X>
-                                  <Y>730</Y>
+                                  <Y>811</Y>
                                   <W>134</W>
                                   <H>20</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2520.5</X>
-                                  <Y>740</Y>
+                                  <Y>821</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -1121,13 +1121,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2616</X>
-                                  <Y>550</Y>
+                                  <Y>631</Y>
                                   <W>93</W>
                                   <H>33</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2662.5</X>
-                                  <Y>566.6667</Y>
+                                  <Y>647.6667</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -1147,13 +1147,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2616</X>
-                                  <Y>583</Y>
+                                  <Y>664</Y>
                                   <W>93</W>
                                   <H>33</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2662.5</X>
-                                  <Y>600</Y>
+                                  <Y>681</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -1173,13 +1173,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2616</X>
-                                  <Y>616</Y>
+                                  <Y>697</Y>
                                   <W>93</W>
                                   <H>34</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2662.5</X>
-                                  <Y>633.3334</Y>
+                                  <Y>714.3334</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -1199,13 +1199,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2616</X>
-                                  <Y>650</Y>
+                                  <Y>731</Y>
                                   <W>93</W>
                                   <H>33</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2662.5</X>
-                                  <Y>666.6667</Y>
+                                  <Y>747.6667</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -1225,13 +1225,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2616</X>
-                                  <Y>683</Y>
+                                  <Y>764</Y>
                                   <W>93</W>
                                   <H>33</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2662.5</X>
-                                  <Y>700</Y>
+                                  <Y>781</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -1251,13 +1251,13 @@ COMPAS FAB v0.22.0</item>
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                                   <X>2616</X>
-                                  <Y>716</Y>
+                                  <Y>797</Y>
                                   <W>93</W>
                                   <H>33</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                                   <X>2662.5</X>
-                                  <Y>733.3333</Y>
+                                  <Y>814.3333</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -1760,7 +1760,7 @@ approach_pick_frame = pick_frame.transformed(Translation.from_vector(approach_ve
               </items>
               <chunks count="1">
                 <chunk name="Container">
-                  <items count="12">
+                  <items count="14">
                     <item name="CodeInput" type_name="gh_string" type_code="10">"""
 Calculate the robot's inverse kinematic for a given plane.
 
@@ -1768,24 +1768,32 @@ COMPAS FAB v0.22.0
 """
 from ghpythonlib.componentbase import executingcomponent as component
 
-from compas_fab.ghpython.components import coerce_frame
+#from compas_fab.ghpython.components import coerce_frame
 
 
 class InverseKinematics(component):
     def RunScript(self, robot, plane, start_configuration, group):
         configuration = None
         if robot and robot.client and robot.client.is_connected and plane:
-            frame = coerce_frame(plane)
+            frame = plane #coerce_frame(plane)
             configuration = robot.inverse_kinematics(frame, start_configuration, group)
         return configuration
 </item>
                     <item name="Description" type_name="gh_string" type_code="10">Calculate the robot's inverse kinematic for a given plane.
 COMPAS FAB v0.22.0</item>
+                    <item name="EditorLocation" type_name="gh_drawing_point" type_code="30">
+                      <X>32</X>
+                      <Y>32</Y>
+                    </item>
+                    <item name="EditorSize" type_name="gh_drawing_size" type_code="32">
+                      <W>1028</W>
+                      <H>661</H>
+                    </item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconDisplay" type_name="gh_int32" type_code="3">2</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="479">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEAAACxABrSO9dQAAAYFJREFUSEu1lLFxwzAMRVWn8gApNIKKDOAubbqk1AgeQRP4NIJG0AgqMoCq1BpBGzD/ywANkbAt3dm4eyfwkwBEElIRQngprvhMXHEL7+ff0tNTXFFBkhqMIAgz6MG3+AcvzuKKDJRETDqBFjSgE005efEWV0QgEzJBl+gs/CdzZLTzHpmAoEqCe9VgNWjePj5/oHMn3B13xnV37yITJEEMhH0BOsrqWLBuuQfYEVR2btFTAQEDmHQMawCdyTyZzCYeAAeEfrz8VXKC5Mv2dQzrJFALWDyNtDFeHQXJ0yOybzcD3scJWJ3YnQyazytQSoHlkmG6Az5XfQ9jMTosbIveLkCQnG2qBRg8p2tk7iDzHFhiI2RBFpi+YWzZFFgFRlnHYs1q3g5SYL0E1t78FlyRwLh9OiTr76344iW5Xq57/lvJhaIogZ6psunX7JEL11azH1H8cPaSC9fE/EW04se+3ksu5MdDbrbpI3Lh0tf246H/ki7iv+Xoze/BFZ9HKP4BuwtzfPsUblIAAAAASUVORK5CYII=</bitmap>
+                      <bitmap length="479">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAAYFJREFUSEu1lLFxwzAMRVWn8gApNIKKDOAubbqk1AgeQRP4NIJG0AgqMoCq1BpBGzD/ywANkbAt3dm4eyfwkwBEElIRQngprvhMXHEL7+ff0tNTXFFBkhqMIAgz6MG3+AcvzuKKDJRETDqBFjSgE005efEWV0QgEzJBl+gs/CdzZLTzHpmAoEqCe9VgNWjePj5/oHMn3B13xnV37yITJEEMhH0BOsrqWLBuuQfYEVR2btFTAQEDmHQMawCdyTyZzCYeAAeEfrz8VXKC5Mv2dQzrJFALWDyNtDFeHQXJ0yOybzcD3scJWJ3YnQyazytQSoHlkmG6Az5XfQ9jMTosbIveLkCQnG2qBRg8p2tk7iDzHFhiI2RBFpi+YWzZFFgFRlnHYs1q3g5SYL0E1t78FlyRwLh9OiTr76344iW5Xq57/lvJhaIogZ6psunX7JEL11azH1H8cPaSC9fE/EW04se+3ksu5MdDbrbpI3Lh0tf246H/ki7iv+Xoze/BFZ9HKP4BuwtzfPsUblIAAAAASUVORK5CYII=</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">7d099d5c-50e7-4161-a923-9f7148538ea5</item>
@@ -2504,7 +2512,7 @@ COMPAS FAB v0.22.0</item>
               </items>
               <chunks count="1">
                 <chunk name="Container">
-                  <items count="12">
+                  <items count="14">
                     <item name="CodeInput" type_name="gh_string" type_code="10">"""
 Calculate the robot's inverse kinematic for a given plane.
 
@@ -2512,24 +2520,32 @@ COMPAS FAB v0.22.0
 """
 from ghpythonlib.componentbase import executingcomponent as component
 
-from compas_fab.ghpython.components import coerce_frame
+#from compas_fab.ghpython.components import coerce_frame
 
 
 class InverseKinematics(component):
     def RunScript(self, robot, plane, start_configuration, group):
         configuration = None
         if robot and robot.client and robot.client.is_connected and plane:
-            frame = coerce_frame(plane)
+            frame = plane #coerce_frame(plane)
             configuration = robot.inverse_kinematics(frame, start_configuration, group)
         return configuration
 </item>
                     <item name="Description" type_name="gh_string" type_code="10">Calculate the robot's inverse kinematic for a given plane.
 COMPAS FAB v0.22.0</item>
+                    <item name="EditorLocation" type_name="gh_drawing_point" type_code="30">
+                      <X>96</X>
+                      <Y>96</Y>
+                    </item>
+                    <item name="EditorSize" type_name="gh_drawing_size" type_code="32">
+                      <W>741</W>
+                      <H>661</H>
+                    </item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconDisplay" type_name="gh_int32" type_code="3">2</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="479">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEAAACxABrSO9dQAAAYFJREFUSEu1lLFxwzAMRVWn8gApNIKKDOAubbqk1AgeQRP4NIJG0AgqMoCq1BpBGzD/ywANkbAt3dm4eyfwkwBEElIRQngprvhMXHEL7+ff0tNTXFFBkhqMIAgz6MG3+AcvzuKKDJRETDqBFjSgE005efEWV0QgEzJBl+gs/CdzZLTzHpmAoEqCe9VgNWjePj5/oHMn3B13xnV37yITJEEMhH0BOsrqWLBuuQfYEVR2btFTAQEDmHQMawCdyTyZzCYeAAeEfrz8VXKC5Mv2dQzrJFALWDyNtDFeHQXJ0yOybzcD3scJWJ3YnQyazytQSoHlkmG6Az5XfQ9jMTosbIveLkCQnG2qBRg8p2tk7iDzHFhiI2RBFpi+YWzZFFgFRlnHYs1q3g5SYL0E1t78FlyRwLh9OiTr76344iW5Xq57/lvJhaIogZ6psunX7JEL11azH1H8cPaSC9fE/EW04se+3ksu5MdDbrbpI3Lh0tf246H/ki7iv+Xoze/BFZ9HKP4BuwtzfPsUblIAAAAASUVORK5CYII=</bitmap>
+                      <bitmap length="479">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAAYFJREFUSEu1lLFxwzAMRVWn8gApNIKKDOAubbqk1AgeQRP4NIJG0AgqMoCq1BpBGzD/ywANkbAt3dm4eyfwkwBEElIRQngprvhMXHEL7+ff0tNTXFFBkhqMIAgz6MG3+AcvzuKKDJRETDqBFjSgE005efEWV0QgEzJBl+gs/CdzZLTzHpmAoEqCe9VgNWjePj5/oHMn3B13xnV37yITJEEMhH0BOsrqWLBuuQfYEVR2btFTAQEDmHQMawCdyTyZzCYeAAeEfrz8VXKC5Mv2dQzrJFALWDyNtDFeHQXJ0yOybzcD3scJWJ3YnQyazytQSoHlkmG6Az5XfQ9jMTosbIveLkCQnG2qBRg8p2tk7iDzHFhiI2RBFpi+YWzZFFgFRlnHYs1q3g5SYL0E1t78FlyRwLh9OiTr76344iW5Xq57/lvJhaIogZ6psunX7JEL11azH1H8cPaSC9fE/EW04se+3ksu5MdDbrbpI3Lh0tf246H/ki7iv+Xoze/BFZ9HKP4BuwtzfPsUblIAAAAASUVORK5CYII=</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">430a0b2c-91fc-4730-a31e-e41b37902df2</item>
@@ -2958,7 +2974,7 @@ approach_place_frame = place_frame.transformed(Translation.from_vector(approach_
               </items>
               <chunks count="1">
                 <chunk name="Container">
-                  <items count="12">
+                  <items count="14">
                     <item name="CodeInput" type_name="gh_string" type_code="10">"""
 Calculate the robot's inverse kinematic for a given plane.
 
@@ -2966,24 +2982,32 @@ COMPAS FAB v0.22.0
 """
 from ghpythonlib.componentbase import executingcomponent as component
 
-from compas_fab.ghpython.components import coerce_frame
+#from compas_fab.ghpython.components import coerce_frame
 
 
 class InverseKinematics(component):
     def RunScript(self, robot, plane, start_configuration, group):
         configuration = None
         if robot and robot.client and robot.client.is_connected and plane:
-            frame = coerce_frame(plane)
+            frame = plane #coerce_frame(plane)
             configuration = robot.inverse_kinematics(frame, start_configuration, group)
         return configuration
 </item>
                     <item name="Description" type_name="gh_string" type_code="10">Calculate the robot's inverse kinematic for a given plane.
 COMPAS FAB v0.22.0</item>
+                    <item name="EditorLocation" type_name="gh_drawing_point" type_code="30">
+                      <X>192</X>
+                      <Y>192</Y>
+                    </item>
+                    <item name="EditorSize" type_name="gh_drawing_size" type_code="32">
+                      <W>741</W>
+                      <H>661</H>
+                    </item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconDisplay" type_name="gh_int32" type_code="3">2</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="479">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAAYFJREFUSEu1lLFxwzAMRVWn8gApNIKKDOAubbqk1AgeQRP4NIJG0AgqMoCq1BpBGzD/ywANkbAt3dm4eyfwkwBEElIRQngprvhMXHEL7+ff0tNTXFFBkhqMIAgz6MG3+AcvzuKKDJRETDqBFjSgE005efEWV0QgEzJBl+gs/CdzZLTzHpmAoEqCe9VgNWjePj5/oHMn3B13xnV37yITJEEMhH0BOsrqWLBuuQfYEVR2btFTAQEDmHQMawCdyTyZzCYeAAeEfrz8VXKC5Mv2dQzrJFALWDyNtDFeHQXJ0yOybzcD3scJWJ3YnQyazytQSoHlkmG6Az5XfQ9jMTosbIveLkCQnG2qBRg8p2tk7iDzHFhiI2RBFpi+YWzZFFgFRlnHYs1q3g5SYL0E1t78FlyRwLh9OiTr76344iW5Xq57/lvJhaIogZ6psunX7JEL11azH1H8cPaSC9fE/EW04se+3ksu5MdDbrbpI3Lh0tf246H/ki7iv+Xoze/BFZ9HKP4BuwtzfPsUblIAAAAASUVORK5CYII=</bitmap>
+                      <bitmap length="479">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDgAACw4BQL7hQQAAAYFJREFUSEu1lLFxwzAMRVWn8gApNIKKDOAubbqk1AgeQRP4NIJG0AgqMoCq1BpBGzD/ywANkbAt3dm4eyfwkwBEElIRQngprvhMXHEL7+ff0tNTXFFBkhqMIAgz6MG3+AcvzuKKDJRETDqBFjSgE005efEWV0QgEzJBl+gs/CdzZLTzHpmAoEqCe9VgNWjePj5/oHMn3B13xnV37yITJEEMhH0BOsrqWLBuuQfYEVR2btFTAQEDmHQMawCdyTyZzCYeAAeEfrz8VXKC5Mv2dQzrJFALWDyNtDFeHQXJ0yOybzcD3scJWJ3YnQyazytQSoHlkmG6Az5XfQ9jMTosbIveLkCQnG2qBRg8p2tk7iDzHFhiI2RBFpi+YWzZFFgFRlnHYs1q3g5SYL0E1t78FlyRwLh9OiTr76344iW5Xq57/lvJhaIogZ6psunX7JEL11azH1H8cPaSC9fE/EW04se+3ksu5MdDbrbpI3Lh0tf246H/ki7iv+Xoze/BFZ9HKP4BuwtzfPsUblIAAAAASUVORK5CYII=</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">9602d130-0c2e-456e-81c4-2666a586c98a</item>
@@ -3183,7 +3207,7 @@ COMPAS FAB v0.22.0</item>
               </items>
               <chunks count="1">
                 <chunk name="Container">
-                  <items count="12">
+                  <items count="14">
                     <item name="CodeInput" type_name="gh_string" type_code="10">"""
 Calculate the robot's inverse kinematic for a given plane.
 
@@ -3191,24 +3215,32 @@ COMPAS FAB v0.22.0
 """
 from ghpythonlib.componentbase import executingcomponent as component
 
-from compas_fab.ghpython.components import coerce_frame
+#from compas_fab.ghpython.components import coerce_frame
 
 
 class InverseKinematics(component):
     def RunScript(self, robot, plane, start_configuration, group):
         configuration = None
         if robot and robot.client and robot.client.is_connected and plane:
-            frame = coerce_frame(plane)
+            frame = plane #coerce_frame(plane)
             configuration = robot.inverse_kinematics(frame, start_configuration, group)
         return configuration
 </item>
                     <item name="Description" type_name="gh_string" type_code="10">Calculate the robot's inverse kinematic for a given plane.
 COMPAS FAB v0.22.0</item>
+                    <item name="EditorLocation" type_name="gh_drawing_point" type_code="30">
+                      <X>224</X>
+                      <Y>224</Y>
+                    </item>
+                    <item name="EditorSize" type_name="gh_drawing_size" type_code="32">
+                      <W>741</W>
+                      <H>661</H>
+                    </item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconDisplay" type_name="gh_int32" type_code="3">2</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="479">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAAYFJREFUSEu1lLFxwzAMRVWn8gApNIKKDOAubbqk1AgeQRP4NIJG0AgqMoCq1BpBGzD/ywANkbAt3dm4eyfwkwBEElIRQngprvhMXHEL7+ff0tNTXFFBkhqMIAgz6MG3+AcvzuKKDJRETDqBFjSgE005efEWV0QgEzJBl+gs/CdzZLTzHpmAoEqCe9VgNWjePj5/oHMn3B13xnV37yITJEEMhH0BOsrqWLBuuQfYEVR2btFTAQEDmHQMawCdyTyZzCYeAAeEfrz8VXKC5Mv2dQzrJFALWDyNtDFeHQXJ0yOybzcD3scJWJ3YnQyazytQSoHlkmG6Az5XfQ9jMTosbIveLkCQnG2qBRg8p2tk7iDzHFhiI2RBFpi+YWzZFFgFRlnHYs1q3g5SYL0E1t78FlyRwLh9OiTr76344iW5Xq57/lvJhaIogZ6psunX7JEL11azH1H8cPaSC9fE/EW04se+3ksu5MdDbrbpI3Lh0tf246H/ki7iv+Xoze/BFZ9HKP4BuwtzfPsUblIAAAAASUVORK5CYII=</bitmap>
+                      <bitmap length="479">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDgAACw4BQL7hQQAAAYFJREFUSEu1lLFxwzAMRVWn8gApNIKKDOAubbqk1AgeQRP4NIJG0AgqMoCq1BpBGzD/ywANkbAt3dm4eyfwkwBEElIRQngprvhMXHEL7+ff0tNTXFFBkhqMIAgz6MG3+AcvzuKKDJRETDqBFjSgE005efEWV0QgEzJBl+gs/CdzZLTzHpmAoEqCe9VgNWjePj5/oHMn3B13xnV37yITJEEMhH0BOsrqWLBuuQfYEVR2btFTAQEDmHQMawCdyTyZzCYeAAeEfrz8VXKC5Mv2dQzrJFALWDyNtDFeHQXJ0yOybzcD3scJWJ3YnQyazytQSoHlkmG6Az5XfQ9jMTosbIveLkCQnG2qBRg8p2tk7iDzHFhiI2RBFpi+YWzZFFgFRlnHYs1q3g5SYL0E1t78FlyRwLh9OiTr76344iW5Xq57/lvJhaIogZ6psunX7JEL11azH1H8cPaSC9fE/EW04se+3ksu5MdDbrbpI3Lh0tf246H/ki7iv+Xoze/BFZ9HKP4BuwtzfPsUblIAAAAASUVORK5CYII=</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">aa35f87d-5f40-487d-a56a-2244dca269af</item>
@@ -3488,7 +3520,7 @@ COMPAS FAB v0.22.0</item>
               </items>
               <chunks count="1">
                 <chunk name="Container">
-                  <items count="12">
+                  <items count="14">
                     <item name="CodeInput" type_name="gh_string" type_code="10">"""
 Calculate a cartesian motion path (linear in tool space).
 
@@ -3497,7 +3529,7 @@ COMPAS FAB v0.22.0
 from ghpythonlib.componentbase import executingcomponent as component
 from scriptcontext import sticky as st
 
-from compas_fab.ghpython.components import coerce_frame
+#from compas_fab.ghpython.components import coerce_frame
 from compas_fab.ghpython.components import create_id
 
 
@@ -3511,7 +3543,7 @@ class PlanCartesianMotion(component):
         attached_collision_meshes = list(attached_collision_meshes) if attached_collision_meshes else None
 
         if robot and robot.client and robot.client.is_connected and start_configuration and planes and compute:
-            frames = [coerce_frame(plane) for plane in planes]
+            frames = planes #[coerce_frame(plane) for plane in planes]
             st[key] = robot.plan_cartesian_motion(frames,
                                                   start_configuration=start_configuration,
                                                   group=group,
@@ -3526,11 +3558,19 @@ class PlanCartesianMotion(component):
 </item>
                     <item name="Description" type_name="gh_string" type_code="10">Calculate a cartesian motion path (linear in tool space).
 COMPAS FAB v0.22.0</item>
+                    <item name="EditorLocation" type_name="gh_drawing_point" type_code="30">
+                      <X>32</X>
+                      <Y>32</Y>
+                    </item>
+                    <item name="EditorSize" type_name="gh_drawing_size" type_code="32">
+                      <W>945</W>
+                      <H>863</H>
+                    </item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconDisplay" type_name="gh_int32" type_code="3">2</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="368">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEAAACxABrSO9dQAAARJJREFUSEu1lAERgzAMRZGABCQgYRImAQmTgIRJQAISkICESZiD7v+WQOgFVroud6/XfpJPl5ZVzrm/YoolMcWSmGIOiDuYFnpQez1OzAHRAU40k38WJ+eAmJWxpjULrhKZam5mwVUQozIV3qA2C1LwxcGYh9qAF9Av6HxeXJgCgubc4d6MLQk0a65MUkHwCvLWPAGF3soTTNECwV3LbeHuW7Du9AhTjEHwI+ILpM/svf+QvmGKAk0WMy7YEvbX9zuV/SL0lj0mvBkPwAdk1rmpbJOqGpQZkT6z76cHeUYYgpE2F4a44CphCL3VxoL/w/qFMBz/gjEuuMo2OTgDnZzDfhHdIv0sF1MsiSmWxBTL4aoPSHunzmFIKsoAAAAASUVORK5CYII=</bitmap>
+                      <bitmap length="368">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAARJJREFUSEu1lAERgzAMRZGABCQgYRImAQmTgIRJQAISkICESZiD7v+WQOgFVroud6/XfpJPl5ZVzrm/YoolMcWSmGIOiDuYFnpQez1OzAHRAU40k38WJ+eAmJWxpjULrhKZam5mwVUQozIV3qA2C1LwxcGYh9qAF9Av6HxeXJgCgubc4d6MLQk0a65MUkHwCvLWPAGF3soTTNECwV3LbeHuW7Du9AhTjEHwI+ILpM/svf+QvmGKAk0WMy7YEvbX9zuV/SL0lj0mvBkPwAdk1rmpbJOqGpQZkT6z76cHeUYYgpE2F4a44CphCL3VxoL/w/qFMBz/gjEuuMo2OTgDnZzDfhHdIv0sF1MsiSmWxBTL4aoPSHunzmFIKsoAAAAASUVORK5CYII=</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">4b3010be-1614-4a47-9c93-cf8a6bc62e54</item>
@@ -4129,7 +4169,7 @@ COMPAS FAB v0.22.0</item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="576">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEAAACxABrSO9dQAAAeJJREFUSEu1kzFLQmEUhk00kBISp6y44tQUglPgILRHi7gESb/AKddAwqZ+QYNDU0su0erQGBQNQXCLfoE2tRTezns5x8797jEq7MKD3vd9z/nOd+93E0EQ/CumOEtMcZaY4l9YPbneIQbMIbEE3QwLFOpyQdXyBfKbROAwgGcWAAq8qXCVeCcaU7J3nHMpx8Jc4BGnHEJj+T8mYrthz6IWCXIYzWH6RDgxa9hRuJhR0yfc5q/EUiTI4cnkjo7H1CAuCM/xisQLoRdowpuEVBgLYFLf8KS45Xrs15iiaFYIU7aIyJTsjQgsEJ6QKf5Ia5EA4AbmlKTh2ALrRWOosFbrkRCQEAoMD00w5a3hYed4tHT7pUdCgALyNZpTFo6uqCohnCuvmsqvPLI+FN1tgC8SnzmYvCjl4yQFmY3ah9uo0Ll8Zg0ci66LeyhW4ByXxVc5L7u121PN6tDze52x0iqSl6IyN3XpSVAgDd9BkMxkw2bp5dIZtPm19Qfcz6XS9zovRTi71gLTjqO/sLkdLpDKF8JsMrMoO2jrrBRM20FfhwXSvfx+1+eGQa5+oB9PSWd10Y/egYauJ2465N+bWEbfUMNvT5ELXW1uLEQeT5hxhd9AV0U1B7lYxhVmjSnOjiDxCR56wOszZIlfAAAAAElFTkSuQmCC</bitmap>
+                      <bitmap length="576">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAAeJJREFUSEu1kzFLQmEUhk00kBISp6y44tQUglPgILRHi7gESb/AKddAwqZ+QYNDU0su0erQGBQNQXCLfoE2tRTezns5x8797jEq7MKD3vd9z/nOd+93E0EQ/CumOEtMcZaY4l9YPbneIQbMIbEE3QwLFOpyQdXyBfKbROAwgGcWAAq8qXCVeCcaU7J3nHMpx8Jc4BGnHEJj+T8mYrthz6IWCXIYzWH6RDgxa9hRuJhR0yfc5q/EUiTI4cnkjo7H1CAuCM/xisQLoRdowpuEVBgLYFLf8KS45Xrs15iiaFYIU7aIyJTsjQgsEJ6QKf5Ia5EA4AbmlKTh2ALrRWOosFbrkRCQEAoMD00w5a3hYed4tHT7pUdCgALyNZpTFo6uqCohnCuvmsqvPLI+FN1tgC8SnzmYvCjl4yQFmY3ah9uo0Ll8Zg0ci66LeyhW4ByXxVc5L7u121PN6tDze52x0iqSl6IyN3XpSVAgDd9BkMxkw2bp5dIZtPm19Qfcz6XS9zovRTi71gLTjqO/sLkdLpDKF8JsMrMoO2jrrBRM20FfhwXSvfx+1+eGQa5+oB9PSWd10Y/egYauJ2465N+bWEbfUMNvT5ELXW1uLEQeT5hxhd9AV0U1B7lYxhVmjSnOjiDxCR56wOszZIlfAAAAAElFTkSuQmCC</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">0aeaf473-dec8-4733-8f75-35dbc1207919</item>
@@ -4807,7 +4847,7 @@ COMPAS FAB v0.22.0</item>
               </items>
               <chunks count="1">
                 <chunk name="Container">
-                  <items count="12">
+                  <items count="14">
                     <item name="CodeInput" type_name="gh_string" type_code="10">"""
 Calculate a cartesian motion path (linear in tool space).
 
@@ -4816,7 +4856,7 @@ COMPAS FAB v0.22.0
 from ghpythonlib.componentbase import executingcomponent as component
 from scriptcontext import sticky as st
 
-from compas_fab.ghpython.components import coerce_frame
+#from compas_fab.ghpython.components import coerce_frame
 from compas_fab.ghpython.components import create_id
 
 
@@ -4830,7 +4870,7 @@ class PlanCartesianMotion(component):
         attached_collision_meshes = list(attached_collision_meshes) if attached_collision_meshes else None
 
         if robot and robot.client and robot.client.is_connected and start_configuration and planes and compute:
-            frames = [coerce_frame(plane) for plane in planes]
+            frames = planes #[coerce_frame(plane) for plane in planes]
             st[key] = robot.plan_cartesian_motion(frames,
                                                   start_configuration=start_configuration,
                                                   group=group,
@@ -4845,11 +4885,19 @@ class PlanCartesianMotion(component):
 </item>
                     <item name="Description" type_name="gh_string" type_code="10">Calculate a cartesian motion path (linear in tool space).
 COMPAS FAB v0.22.0</item>
+                    <item name="EditorLocation" type_name="gh_drawing_point" type_code="30">
+                      <X>128</X>
+                      <Y>128</Y>
+                    </item>
+                    <item name="EditorSize" type_name="gh_drawing_size" type_code="32">
+                      <W>741</W>
+                      <H>661</H>
+                    </item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconDisplay" type_name="gh_int32" type_code="3">2</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="368">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAARJJREFUSEu1lAERgzAMRZGABCQgYRImAQmTgIRJQAISkICESZiD7v+WQOgFVroud6/XfpJPl5ZVzrm/YoolMcWSmGIOiDuYFnpQez1OzAHRAU40k38WJ+eAmJWxpjULrhKZam5mwVUQozIV3qA2C1LwxcGYh9qAF9Av6HxeXJgCgubc4d6MLQk0a65MUkHwCvLWPAGF3soTTNECwV3LbeHuW7Du9AhTjEHwI+ILpM/svf+QvmGKAk0WMy7YEvbX9zuV/SL0lj0mvBkPwAdk1rmpbJOqGpQZkT6z76cHeUYYgpE2F4a44CphCL3VxoL/w/qFMBz/gjEuuMo2OTgDnZzDfhHdIv0sF1MsiSmWxBTL4aoPSHunzmFIKsoAAAAASUVORK5CYII=</bitmap>
+                      <bitmap length="368">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDgAACw4BQL7hQQAAARJJREFUSEu1lAERgzAMRZGABCQgYRImAQmTgIRJQAISkICESZiD7v+WQOgFVroud6/XfpJPl5ZVzrm/YoolMcWSmGIOiDuYFnpQez1OzAHRAU40k38WJ+eAmJWxpjULrhKZam5mwVUQozIV3qA2C1LwxcGYh9qAF9Av6HxeXJgCgubc4d6MLQk0a65MUkHwCvLWPAGF3soTTNECwV3LbeHuW7Du9AhTjEHwI+ILpM/svf+QvmGKAk0WMy7YEvbX9zuV/SL0lj0mvBkPwAdk1rmpbJOqGpQZkT6z76cHeUYYgpE2F4a44CphCL3VxoL/w/qFMBz/gjEuuMo2OTgDnZzDfhHdIv0sF1MsiSmWxBTL4aoPSHunzmFIKsoAAAAASUVORK5CYII=</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">6658926a-f836-44d2-ba58-bd3bd41b6399</item>
@@ -5448,7 +5496,7 @@ COMPAS FAB v0.22.0</item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="576">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAAeJJREFUSEu1kzFLQmEUhk00kBISp6y44tQUglPgILRHi7gESb/AKddAwqZ+QYNDU0su0erQGBQNQXCLfoE2tRTezns5x8797jEq7MKD3vd9z/nOd+93E0EQ/CumOEtMcZaY4l9YPbneIQbMIbEE3QwLFOpyQdXyBfKbROAwgGcWAAq8qXCVeCcaU7J3nHMpx8Jc4BGnHEJj+T8mYrthz6IWCXIYzWH6RDgxa9hRuJhR0yfc5q/EUiTI4cnkjo7H1CAuCM/xisQLoRdowpuEVBgLYFLf8KS45Xrs15iiaFYIU7aIyJTsjQgsEJ6QKf5Ia5EA4AbmlKTh2ALrRWOosFbrkRCQEAoMD00w5a3hYed4tHT7pUdCgALyNZpTFo6uqCohnCuvmsqvPLI+FN1tgC8SnzmYvCjl4yQFmY3ah9uo0Ll8Zg0ci66LeyhW4ByXxVc5L7u121PN6tDze52x0iqSl6IyN3XpSVAgDd9BkMxkw2bp5dIZtPm19Qfcz6XS9zovRTi71gLTjqO/sLkdLpDKF8JsMrMoO2jrrBRM20FfhwXSvfx+1+eGQa5+oB9PSWd10Y/egYauJ2465N+bWEbfUMNvT5ELXW1uLEQeT5hxhd9AV0U1B7lYxhVmjSnOjiDxCR56wOszZIlfAAAAAElFTkSuQmCC</bitmap>
+                      <bitmap length="576">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDgAACw4BQL7hQQAAAeJJREFUSEu1kzFLQmEUhk00kBISp6y44tQUglPgILRHi7gESb/AKddAwqZ+QYNDU0su0erQGBQNQXCLfoE2tRTezns5x8797jEq7MKD3vd9z/nOd+93E0EQ/CumOEtMcZaY4l9YPbneIQbMIbEE3QwLFOpyQdXyBfKbROAwgGcWAAq8qXCVeCcaU7J3nHMpx8Jc4BGnHEJj+T8mYrthz6IWCXIYzWH6RDgxa9hRuJhR0yfc5q/EUiTI4cnkjo7H1CAuCM/xisQLoRdowpuEVBgLYFLf8KS45Xrs15iiaFYIU7aIyJTsjQgsEJ6QKf5Ia5EA4AbmlKTh2ALrRWOosFbrkRCQEAoMD00w5a3hYed4tHT7pUdCgALyNZpTFo6uqCohnCuvmsqvPLI+FN1tgC8SnzmYvCjl4yQFmY3ah9uo0Ll8Zg0ci66LeyhW4ByXxVc5L7u121PN6tDze52x0iqSl6IyN3XpSVAgDd9BkMxkw2bp5dIZtPm19Qfcz6XS9zovRTi71gLTjqO/sLkdLpDKF8JsMrMoO2jrrBRM20FfhwXSvfx+1+eGQa5+oB9PSWd10Y/egYauJ2465N+bWEbfUMNvT5ELXW1uLEQeT5hxhd9AV0U1B7lYxhVmjSnOjiDxCR56wOszZIlfAAAAAElFTkSuQmCC</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">6bf06a16-815b-4986-9024-47b831e099ec</item>
@@ -6166,7 +6214,7 @@ COMPAS FAB v0.22.0</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconDisplay" type_name="gh_int32" type_code="3">2</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="491">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEAAACxABrSO9dQAAAY1JREFUSEu1lM1tAjEQhSmBDkgJFMCBEnKJuKYESuAQiRoicaADKIEOkgK455icckHK5n3e8WbsHRJAG0sfjOc9478xo6Zp/pUwOSRhckjC5LWojcVWHMRezDvNGz1qM7ETm0j3qL0KAk+a5NyAtTO+iQ3fZ7z3Ins9+6QHAybGpyDBj58sPgb+lWk1h6QHA14EP/gkZpZjEgJ2M6n8U9NqVkn3ZhuQV1ucvdqD4OjWPm9avQvuZJy0wPxuprR6l6dCCN593ul3Yg5Fvui0Z78UC583jTyBuqUGahwjiyt3XnTasiTorVKNydGXtWZ63nm63C5fdP4+hiOaiHZIcRD8OgHHwCTh41ILV2kaY4t7S/kuaC+JaoBHb3IedvAl6grj1RNAsbtsoJY/zJDZeqP58iPkLrr3YH2Ck/cnzQz8QRHUTHsD2h0QpFetxtt4Fhztruc3U77cmqKmzbsQTMJ9+HG9B5j86eOKHZifms8FQSKsrORNHxfewS38BBdU0S2EySEJk0MSJoejGX0DqCUOkgYB1loAAAAASUVORK5CYII=</bitmap>
+                      <bitmap length="491">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAAY1JREFUSEu1lM1tAjEQhSmBDkgJFMCBEnKJuKYESuAQiRoicaADKIEOkgK455icckHK5n3e8WbsHRJAG0sfjOc9478xo6Zp/pUwOSRhckjC5LWojcVWHMRezDvNGz1qM7ETm0j3qL0KAk+a5NyAtTO+iQ3fZ7z3Ins9+6QHAybGpyDBj58sPgb+lWk1h6QHA14EP/gkZpZjEgJ2M6n8U9NqVkn3ZhuQV1ucvdqD4OjWPm9avQvuZJy0wPxuprR6l6dCCN593ul3Yg5Fvui0Z78UC583jTyBuqUGahwjiyt3XnTasiTorVKNydGXtWZ63nm63C5fdP4+hiOaiHZIcRD8OgHHwCTh41ILV2kaY4t7S/kuaC+JaoBHb3IedvAl6grj1RNAsbtsoJY/zJDZeqP58iPkLrr3YH2Ck/cnzQz8QRHUTHsD2h0QpFetxtt4Fhztruc3U77cmqKmzbsQTMJ9+HG9B5j86eOKHZifms8FQSKsrORNHxfewS38BBdU0S2EySEJk0MSJoejGX0DqCUOkgYB1loAAAAASUVORK5CYII=</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">7ba3545c-ba88-4af8-9c9f-fe32f7b1aee0</item>
@@ -6575,7 +6623,7 @@ COMPAS FAB v0.22.0</item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="576">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDgAACw4BQL7hQQAAAeJJREFUSEu1kzFLQmEUhk00kBISp6y44tQUglPgILRHi7gESb/AKddAwqZ+QYNDU0su0erQGBQNQXCLfoE2tRTezns5x8797jEq7MKD3vd9z/nOd+93E0EQ/CumOEtMcZaY4l9YPbneIQbMIbEE3QwLFOpyQdXyBfKbROAwgGcWAAq8qXCVeCcaU7J3nHMpx8Jc4BGnHEJj+T8mYrthz6IWCXIYzWH6RDgxa9hRuJhR0yfc5q/EUiTI4cnkjo7H1CAuCM/xisQLoRdowpuEVBgLYFLf8KS45Xrs15iiaFYIU7aIyJTsjQgsEJ6QKf5Ia5EA4AbmlKTh2ALrRWOosFbrkRCQEAoMD00w5a3hYed4tHT7pUdCgALyNZpTFo6uqCohnCuvmsqvPLI+FN1tgC8SnzmYvCjl4yQFmY3ah9uo0Ll8Zg0ci66LeyhW4ByXxVc5L7u121PN6tDze52x0iqSl6IyN3XpSVAgDd9BkMxkw2bp5dIZtPm19Qfcz6XS9zovRTi71gLTjqO/sLkdLpDKF8JsMrMoO2jrrBRM20FfhwXSvfx+1+eGQa5+oB9PSWd10Y/egYauJ2465N+bWEbfUMNvT5ELXW1uLEQeT5hxhd9AV0U1B7lYxhVmjSnOjiDxCR56wOszZIlfAAAAAElFTkSuQmCC</bitmap>
+                      <bitmap length="576">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDQAACw0B7QfALAAAAeJJREFUSEu1kzFLQmEUhk00kBISp6y44tQUglPgILRHi7gESb/AKddAwqZ+QYNDU0su0erQGBQNQXCLfoE2tRTezns5x8797jEq7MKD3vd9z/nOd+93E0EQ/CumOEtMcZaY4l9YPbneIQbMIbEE3QwLFOpyQdXyBfKbROAwgGcWAAq8qXCVeCcaU7J3nHMpx8Jc4BGnHEJj+T8mYrthz6IWCXIYzWH6RDgxa9hRuJhR0yfc5q/EUiTI4cnkjo7H1CAuCM/xisQLoRdowpuEVBgLYFLf8KS45Xrs15iiaFYIU7aIyJTsjQgsEJ6QKf5Ia5EA4AbmlKTh2ALrRWOosFbrkRCQEAoMD00w5a3hYed4tHT7pUdCgALyNZpTFo6uqCohnCuvmsqvPLI+FN1tgC8SnzmYvCjl4yQFmY3ah9uo0Ll8Zg0ci66LeyhW4ByXxVc5L7u121PN6tDze52x0iqSl6IyN3XpSVAgDd9BkMxkw2bp5dIZtPm19Qfcz6XS9zovRTi71gLTjqO/sLkdLpDKF8JsMrMoO2jrrBRM20FfhwXSvfx+1+eGQa5+oB9PSWd10Y/egYauJ2465N+bWEbfUMNvT5ELXW1uLEQeT5hxhd9AV0U1B7lYxhVmjSnOjiDxCR56wOszZIlfAAAAAElFTkSuQmCC</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">857b7e70-18e3-4a9c-933a-3daf9f8bbcd4</item>
@@ -7523,7 +7571,7 @@ COMPAS FAB v0.22.0</item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="491">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDwAACw8BkvkDpQAAAY1JREFUSEu1lM1tAjEQhSmBDkgJFMCBEnKJuKYESuAQiRoicaADKIEOkgK455icckHK5n3e8WbsHRJAG0sfjOc9478xo6Zp/pUwOSRhckjC5LWojcVWHMRezDvNGz1qM7ETm0j3qL0KAk+a5NyAtTO+iQ3fZ7z3Ins9+6QHAybGpyDBj58sPgb+lWk1h6QHA14EP/gkZpZjEgJ2M6n8U9NqVkn3ZhuQV1ucvdqD4OjWPm9avQvuZJy0wPxuprR6l6dCCN593ul3Yg5Fvui0Z78UC583jTyBuqUGahwjiyt3XnTasiTorVKNydGXtWZ63nm63C5fdP4+hiOaiHZIcRD8OgHHwCTh41ILV2kaY4t7S/kuaC+JaoBHb3IedvAl6grj1RNAsbtsoJY/zJDZeqP58iPkLrr3YH2Ck/cnzQz8QRHUTHsD2h0QpFetxtt4Fhztruc3U77cmqKmzbsQTMJ9+HG9B5j86eOKHZifms8FQSKsrORNHxfewS38BBdU0S2EySEJk0MSJoejGX0DqCUOkgYB1loAAAAASUVORK5CYII=</bitmap>
+                      <bitmap length="491">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDgAACw4BQL7hQQAAAY1JREFUSEu1lM1tAjEQhSmBDkgJFMCBEnKJuKYESuAQiRoicaADKIEOkgK455icckHK5n3e8WbsHRJAG0sfjOc9478xo6Zp/pUwOSRhckjC5LWojcVWHMRezDvNGz1qM7ETm0j3qL0KAk+a5NyAtTO+iQ3fZ7z3Ins9+6QHAybGpyDBj58sPgb+lWk1h6QHA14EP/gkZpZjEgJ2M6n8U9NqVkn3ZhuQV1ucvdqD4OjWPm9avQvuZJy0wPxuprR6l6dCCN593ul3Yg5Fvui0Z78UC583jTyBuqUGahwjiyt3XnTasiTorVKNydGXtWZ63nm63C5fdP4+hiOaiHZIcRD8OgHHwCTh41ILV2kaY4t7S/kuaC+JaoBHb3IedvAl6grj1RNAsbtsoJY/zJDZeqP58iPkLrr3YH2Ck/cnzQz8QRHUTHsD2h0QpFetxtt4Fhztruc3U77cmqKmzbsQTMJ9+HG9B5j86eOKHZifms8FQSKsrORNHxfewS38BBdU0S2EySEJk0MSJoejGX0DqCUOkgYB1loAAAAASUVORK5CYII=</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">993d133f-20cd-4f40-8b77-57cf3e1d62ae</item>
@@ -7932,7 +7980,7 @@ COMPAS FAB v0.22.0</item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideOutput" type_name="gh_bool" type_code="1">true</item>
                     <item name="IconOverride" type_name="gh_drawing_bitmap" type_code="37">
-                      <bitmap length="576">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDQAACw0B7QfALAAAAeJJREFUSEu1kzFLQmEUhk00kBISp6y44tQUglPgILRHi7gESb/AKddAwqZ+QYNDU0su0erQGBQNQXCLfoE2tRTezns5x8797jEq7MKD3vd9z/nOd+93E0EQ/CumOEtMcZaY4l9YPbneIQbMIbEE3QwLFOpyQdXyBfKbROAwgGcWAAq8qXCVeCcaU7J3nHMpx8Jc4BGnHEJj+T8mYrthz6IWCXIYzWH6RDgxa9hRuJhR0yfc5q/EUiTI4cnkjo7H1CAuCM/xisQLoRdowpuEVBgLYFLf8KS45Xrs15iiaFYIU7aIyJTsjQgsEJ6QKf5Ia5EA4AbmlKTh2ALrRWOosFbrkRCQEAoMD00w5a3hYed4tHT7pUdCgALyNZpTFo6uqCohnCuvmsqvPLI+FN1tgC8SnzmYvCjl4yQFmY3ah9uo0Ll8Zg0ci66LeyhW4ByXxVc5L7u121PN6tDze52x0iqSl6IyN3XpSVAgDd9BkMxkw2bp5dIZtPm19Qfcz6XS9zovRTi71gLTjqO/sLkdLpDKF8JsMrMoO2jrrBRM20FfhwXSvfx+1+eGQa5+oB9PSWd10Y/egYauJ2465N+bWEbfUMNvT5ELXW1uLEQeT5hxhd9AV0U1B7lYxhVmjSnOjiDxCR56wOszZIlfAAAAAElFTkSuQmCC</bitmap>
+                      <bitmap length="576">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDAAACwwBP0AiyAAAAeJJREFUSEu1kzFLQmEUhk00kBISp6y44tQUglPgILRHi7gESb/AKddAwqZ+QYNDU0su0erQGBQNQXCLfoE2tRTezns5x8797jEq7MKD3vd9z/nOd+93E0EQ/CumOEtMcZaY4l9YPbneIQbMIbEE3QwLFOpyQdXyBfKbROAwgGcWAAq8qXCVeCcaU7J3nHMpx8Jc4BGnHEJj+T8mYrthz6IWCXIYzWH6RDgxa9hRuJhR0yfc5q/EUiTI4cnkjo7H1CAuCM/xisQLoRdowpuEVBgLYFLf8KS45Xrs15iiaFYIU7aIyJTsjQgsEJ6QKf5Ia5EA4AbmlKTh2ALrRWOosFbrkRCQEAoMD00w5a3hYed4tHT7pUdCgALyNZpTFo6uqCohnCuvmsqvPLI+FN1tgC8SnzmYvCjl4yQFmY3ah9uo0Ll8Zg0ci66LeyhW4ByXxVc5L7u121PN6tDze52x0iqSl6IyN3XpSVAgDd9BkMxkw2bp5dIZtPm19Qfcz6XS9zovRTi71gLTjqO/sLkdLpDKF8JsMrMoO2jrrBRM20FfhwXSvfx+1+eGQa5+oB9PSWd10Y/egYauJ2465N+bWEbfUMNvT5ELXW1uLEQeT5hxhd9AV0U1B7lYxhVmjSnOjiDxCR56wOszZIlfAAAAAElFTkSuQmCC</bitmap>
                     </item>
                     <item name="InputIsPath" type_name="gh_bool" type_code="1">false</item>
                     <item name="InstanceGuid" type_name="gh_guid" type_code="9">5a1340d0-d4a9-4c73-8a1c-dcb42498fafd</item>
@@ -9273,7 +9321,7 @@ if robot and config:
     <chunk name="Thumbnail">
       <items count="1">
         <item name="Thumbnail" type_name="gh_drawing_bitmap" type_code="37">
-          <bitmap length="18844">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</bitmap>
+          <bitmap length="15949">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</bitmap>
         </item>
       </items>
     </chunk>
