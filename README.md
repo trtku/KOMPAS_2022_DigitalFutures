@@ -70,26 +70,33 @@ Create a environment with compas and compas_fab / 必要なライブラリとと
 
 ### Add to Rhino / ライノセラスにコンパスをインストールする
 
-    (base)   conda activate fs2022
-    (fs2022) python -m compas_rhino.install -v 7.0
+    (base)   conda activate df2022
+    (df2022) python -m compas_rhino.install -v 7.0
 
 ### Get the workshop files / 本ワークショップ用のファイルをクローンする
 
-    (fs2022) cd PATH_TO_YOUR_WORKING_DIRECTORY
-    (fs2022) git clone https://github.com/trtku/KOMPAS_2022_DigitalFutures.git
+    (df2022) cd PATH_TO_YOUR_WORKING_DIRECTORY
+    (df2022) git clone https://github.com/trtku/KOMPAS_2022_DigitalFutures.git
 
-### Verify installation
+### Verify installation / インスタレーションの確認
 
-    (fs2022) python -m compas
+    (df2022) python -m compas
+    (df2022) python -m compas_fab
 
-    Yay! COMPAS is installed correctly!
+### Open Visual Studio Code / Visual Studio Code を開く
 
-    COMPAS: 1.14.1
-    Python: 3.8.10 | packaged by conda-forge | (default, May 11 2021, 06:25:23) [MSC v.1916 64 bit (AMD64)]
-    Extensions: ['compas-fab', 'compas-cgal', 'compas-rrc', 'compas-slicer']
+    (df2022) code .
 
-### Update installation
+（Open Rhinoceros3D and Grasshopper if necessary. / 必要に応じてライノセラス、グラスホッパーを開く）
 
-To update your environment:
+🚀 You're ready! / 準備完了です！
 
-    (fs2022) conda env update -f https://dfab.link/fs2022.yml
+## Credits / クレジット
+
+This repository is arranged for DigitalFUTURES 2022 workshop based on a COMPAS course at ETH Zurich. ([see original repo](https://github.com/compas-teaching/COMPAS-II-FS2022))
+
+Arranged by Ko Tsuruta (<trtku0809@gmail.com>); with the help of Gonzalo Casas (<casas@arch.ethz.ch>).
+
+本レポジトリはスイス連邦工科大で行われているCOMPASコースをもとにDigitalFUTURES2022ワークショップ用にアレンジをしたものです。
+
+アレンジはGonzalo　Casasサポートのもと、鶴田航が行いました。
