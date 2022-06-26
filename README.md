@@ -66,26 +66,29 @@ Make sure you run this at least once:
 </p>
 </details>
 
-Create a environment with compas and compas_fab / 必要なライブラリとともに環境を構築する
+1. Create a environment with compas and compas_fab / 必要なライブラリとともに環境を構築する
 
     (base) conda create -n df2022 -c conda-forge compas compas_fab
 
-### Add to Rhino / ライノセラスにコンパスをインストールする
+![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%201%20add%20conda%20forge.PNG)
+
+
+1.  Add to Rhino / ライノセラスにコンパスをインストールする
 
     (base)   conda activate df2022
     (df2022) python -m compas_rhino.install -v 7.0
 
-### Get the workshop files / 本ワークショップ用のファイルをクローンする
+1.  Get the workshop files / 本ワークショップ用のファイルをクローンする
 
     (df2022) cd PATH_TO_YOUR_WORKING_DIRECTORY
     (df2022) git clone https://github.com/trtku/KOMPAS_2022_DigitalFutures.git
 
-### Verify installation / インスタレーションの確認
+1.  Verify installation / インスタレーションの確認
 
     (df2022) python -m compas
     (df2022) python -m compas_fab
 
-### Open Visual Studio Code / Visual Studio Code を開く
+1.  Open Visual Studio Code / Visual Studio Code を開く
 
     (df2022) code .
 
