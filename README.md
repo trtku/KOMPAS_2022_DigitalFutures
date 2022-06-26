@@ -9,7 +9,7 @@ This is a hands-on style workshop to introduce basics of COMPAS, a python framew
 
 | Lecture　レクチャー | Date　日付   | Session content　セッション内容                                                                                                                                                                                                                                                                                                                                                                                                                          | Session leads　担当      |
 |---------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| 01      | 28.06. | **Introduction and COMPAS / イントロダクション・CONPASの紹介**<br>Introduction to the course and COMPAS / COMPAS入門<br>👉[Go to lecture](lecture_01/README.md)                                                                                                                                                               | Ko　鶴田                |
+| 01      | 28.06. | **Introduction and COMPAS / イントロダクション・CONPASの紹介**<br>Introduction to the course and COMPAS / COMPAS入門<br>👉[Go to lecture　レクチャーページへ](lecture_01/README.md)                                                                                                                                                               | Ko　鶴田                |
 | 02      | 29.06. | **COMPAS FAB / COMPAS FABの紹介**<br>Introduction to COMPAS FAB and excercises. (from robotic fundamentals to path planning) / COMPAS　FAB入門及びエクササイズ（ロボットの基礎からパスプランニングまで）<br>👉[Go to lecture　レクチャーページへ](lecture_02/README.md)                                                                                                                                                                                                           | Ko　鶴田       |
 | 03      | 30.06. | **Continuation and Recap / エクササイズ・リキャップ**<br>Continuation of excercises with on-demad help. Final review and recap.<br>👉[Go to lecture　レクチャーページへ](lecture_03/README.md)                                                                                                                                                                                        | Ko　鶴田       |
 
@@ -51,11 +51,13 @@ Lectures, tutorials and exercises will focus on / WSでは以下の内容に焦�
 ## Installation / インストール手順
 
 We use `conda` to make sure we have clean, isolated environment for dependencies.
+独立した簡潔な環境を構築するため、`conda`を使用します。
 
-<details><summary>First time using <code>conda</code>?</summary>
+<details><summary>First time using <code>conda</code>? / 初めてを使用する場合<code>conda</code></summary>
 <p>
 
 Make sure you run this at least once:
+少なくとも一度は以下のコマンドを走らせてください：
 
     (base) conda config --add channels conda-forge
 
