@@ -70,7 +70,7 @@ Make sure you run this at least once:
 
     (base) conda create -n df2022 -c conda-forge compas compas_fab
 
-    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%201%20add%20conda%20forge.PNG)
+    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%202%20install%20compas%20and%20compasfab.PNG)
 
 
 1.  Add to Rhino / ライノセラスにコンパスをインストールする
@@ -78,21 +78,46 @@ Make sure you run this at least once:
     (base)   conda activate df2022
     (df2022) python -m compas_rhino.install -v 7.0
 
+    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%203%20activate%20env.PNG)
+    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%204%20compas_rhino.PNG)
+
+    you will get screen like below / 以下のようなメッセージが表示されます
+    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%205%20compas_rhino%20complete.PNG)
+
+
 1.  Get the workshop files / 本ワークショップ用のファイルをクローンする
 
     (df2022) cd PATH_TO_YOUR_WORKING_DIRECTORY
     (df2022) git clone https://github.com/trtku/KOMPAS_2022_DigitalFutures.git
+
+    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%206%20go%20to%20path.PNG)
+    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%207%20git%20clone.PNG)
+
+    2.  go to the folder that you have just cloned / クローンしたフォルダに移動する
+        (df2022) cd KOMPAS_2022_DigitalFutures
+        ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%208%20go%20deeper.PNG)
+
 
 1.  Verify installation / インスタレーションの確認
 
     (df2022) python -m compas
     (df2022) python -m compas_fab
 
+    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%209%20verify.PNG)
+    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%209%20verify2.PNG)
+
+
 1.  Open Visual Studio Code / Visual Studio Code を開く
 
     (df2022) code .
 
-（Open Rhinoceros3D and Grasshopper if necessary. / 必要に応じてライノセラス、グラスホッパーを開く）
+    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/conda%2099%20code.PNG)
+
+
+1. （Open Rhinoceros3D and Grasshopper if necessary. / 必要に応じてライノセラス、グラスホッパーを開く）
+
+    ![image of anaconda](https://github.com/trtku/KOMPAS_2022_DigitalFutures/blob/main/img/Capture.PNG)
+
 
 🚀 You're ready! / 準備完了です！
 
