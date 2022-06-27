@@ -27,8 +27,3 @@ point, normal = [0, 0, 0], [0, 0, 1]
 perspective = [1, 1, 0]
 P = Projection.from_plane_and_point((point, normal), perspective)
 print("Perspective projection:\n", R)
-
-angle, direction = 0.1, [0.1, 0.2, 0.3]
-point, normal = [4, 3, 1], [-0.11, 0.31, -0.17]
-S = Shear.from_angle_direction_plane(angle, direction, (point, normal))
-print("Shear:\n", S)

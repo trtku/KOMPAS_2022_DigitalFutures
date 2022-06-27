@@ -15,7 +15,7 @@ C = Translation.from_vector(translation)  # create Translation
 M = C * B * A
 
 # A matrix can also be decomposed into its components of Scale,
-# Shear, Rotation, Translation and Perspective
+# Scale, Shear, Rotation, Translation and Perspective
 Sc, Sh, R, T, P = M.decomposed()
 # Check, must be all `True`
 print(A == Sc)

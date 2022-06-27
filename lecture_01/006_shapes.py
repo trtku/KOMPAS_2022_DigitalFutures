@@ -8,15 +8,16 @@ from compas.geometry import Sphere
 # Box
 b1 = Box(Frame.worldXY(), 5, 1, 3)          # xsize, ysize, zsize
 b2 = Box.from_width_height_depth(5, 3, 1)   # width=xsize, height=zsize, depth=ysize
-assert str(b1) == str(b2)
+print(b1==b2)
 print(b1)
+print(b2)
 
 # Sphere
-s1 = Sphere([0, 0, 0], 5)
+s1 = Sphere([0, 0, 0], 5)  # Sphere(center, radius)
 print(s1)
 
 # Cylinder
-plane = Plane([0, 0, 0], [0, 0, 1])
-circle = Circle(plane, 5)
-c1 = Cylinder(circle, height=4)
+plane = Plane([0, 0, 0], [0, 0, 1]) # Plane(origin, normal)
+circle = Circle(plane, 5)           # Circle(center, radius)
+c1 = Cylinder(circle, height=4)     # Cylinder(base, height)
 print(c1)
