@@ -1,0 +1,779 @@
+{
+    "dtype": "compas.datastructures/Assembly",
+    "guid": "439a3ffd-a433-4b4f-97fd-3c6d0788585c",
+    "value": {
+        "attributes": {
+            "name": "exercise-wall"
+        },
+        "graph": {
+            "adjacency": {
+                "'0'": {
+                    "'1'": null
+                },
+                "'1'": {
+                    "'0'": null,
+                    "'2'": null
+                },
+                "'2'": {
+                    "'1'": null,
+                    "'3'": null
+                },
+                "'3'": {
+                    "'2'": null,
+                    "'4'": null
+                },
+                "'4'": {
+                    "'3'": null
+                }
+            },
+            "attributes": {
+                "name": "Graph"
+            },
+            "dea": {},
+            "dna": {},
+            "edge": {
+                "'0'": {
+                    "'1'": {}
+                },
+                "'1'": {
+                    "'2'": {}
+                },
+                "'2'": {
+                    "'3'": {}
+                },
+                "'3'": {
+                    "'4'": {}
+                },
+                "'4'": {}
+            },
+            "max_node": "4",
+            "node": {
+                "'0'": {
+                    "part": {
+                        "dtype": "compas.datastructures/Part",
+                        "guid": "6afa3ea1-85be-4b95-8daf-06835f8717d7",
+                        "value": {
+                            "attributes": {
+                                "name": "Part"
+                            },
+                            "features": [],
+                            "frame": {
+                                "point": [
+                                    0.17990172490698886,
+                                    0.24464167497230704,
+                                    0.01
+                                ],
+                                "xaxis": [
+                                    0.10964211524663484,
+                                    -0.9939711296432325,
+                                    0.0
+                                ],
+                                "yaxis": [
+                                    -0.9939711296432325,
+                                    -0.10964211524663484,
+                                    1.2246063538223775e-16
+                                ]
+                            },
+                            "key": "0",
+                            "shape": {
+                                "faces": [
+                                    [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    [
+                                        0,
+                                        3,
+                                        5,
+                                        4
+                                    ],
+                                    [
+                                        3,
+                                        2,
+                                        6,
+                                        5
+                                    ],
+                                    [
+                                        2,
+                                        1,
+                                        7,
+                                        6
+                                    ],
+                                    [
+                                        1,
+                                        0,
+                                        4,
+                                        7
+                                    ],
+                                    [
+                                        4,
+                                        5,
+                                        6,
+                                        7
+                                    ]
+                                ],
+                                "vertices": [
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "267c135b-2968-43f5-a698-48e497d85f5a",
+                                        "value": [
+                                            -0.03,
+                                            -0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "ee275095-2ac0-43b6-b01c-aabc4401dc5b",
+                                        "value": [
+                                            -0.03,
+                                            0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "70b1a526-f806-43d5-b4c0-783f47403240",
+                                        "value": [
+                                            0.03,
+                                            0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "3a7a249f-4dbb-4c36-9088-079b7b6625a6",
+                                        "value": [
+                                            0.03,
+                                            -0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "789791ca-132c-46ba-80cc-801f4f29064b",
+                                        "value": [
+                                            -0.03,
+                                            -0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "e733bbda-2d41-472a-941b-9ca6aae63b8c",
+                                        "value": [
+                                            0.03,
+                                            -0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "e4772d30-d65c-45e5-a169-ff6ec9bf7e4f",
+                                        "value": [
+                                            0.03,
+                                            0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "64622401-efa9-4df8-a91c-467adaf90f4f",
+                                        "value": [
+                                            -0.03,
+                                            0.015,
+                                            0.01
+                                        ]
+                                    }
+                                ]
+                            },
+                            "transformations": []
+                        }
+                    }
+                },
+                "'1'": {
+                    "part": {
+                        "dtype": "compas.datastructures/Part",
+                        "guid": "aadc147e-8efe-4a7e-ad98-4d7dca812f06",
+                        "value": {
+                            "attributes": {
+                                "name": "Part"
+                            },
+                            "features": [],
+                            "frame": {
+                                "point": [
+                                    0.18843998732520392,
+                                    0.18020629075071715,
+                                    0.01
+                                ],
+                                "xaxis": [
+                                    0.1377611719722565,
+                                    -0.9904654761761413,
+                                    0.0
+                                ],
+                                "yaxis": [
+                                    -0.9904654761761413,
+                                    -0.1377611719722565,
+                                    1.2246063538223773e-16
+                                ]
+                            },
+                            "key": "1",
+                            "shape": {
+                                "faces": [
+                                    [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    [
+                                        0,
+                                        3,
+                                        5,
+                                        4
+                                    ],
+                                    [
+                                        3,
+                                        2,
+                                        6,
+                                        5
+                                    ],
+                                    [
+                                        2,
+                                        1,
+                                        7,
+                                        6
+                                    ],
+                                    [
+                                        1,
+                                        0,
+                                        4,
+                                        7
+                                    ],
+                                    [
+                                        4,
+                                        5,
+                                        6,
+                                        7
+                                    ]
+                                ],
+                                "vertices": [
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "b4452918-06f8-40cd-9e2d-11464ef430e9",
+                                        "value": [
+                                            -0.03,
+                                            -0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "5e1034b6-dd37-43f3-9a48-396c991231cc",
+                                        "value": [
+                                            -0.03,
+                                            0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "89b6bd16-6ceb-4d78-b4ac-26c3794cedea",
+                                        "value": [
+                                            0.03,
+                                            0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "69d8dd4c-ca69-4789-8fd9-21ba0c851daa",
+                                        "value": [
+                                            0.03,
+                                            -0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "5aa1c232-c334-4dbf-bbaa-a89ab1898886",
+                                        "value": [
+                                            -0.03,
+                                            -0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "03a10256-e90b-48f1-b348-e6cbb9814fbe",
+                                        "value": [
+                                            0.03,
+                                            -0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "f284f796-5dc9-4ad0-97cc-d830934ff725",
+                                        "value": [
+                                            0.03,
+                                            0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "03720f46-9ce6-4170-a77c-0fb1c4e3a601",
+                                        "value": [
+                                            -0.03,
+                                            0.015,
+                                            0.01
+                                        ]
+                                    }
+                                ]
+                            },
+                            "transformations": []
+                        }
+                    }
+                },
+                "'2'": {
+                    "part": {
+                        "dtype": "compas.datastructures/Part",
+                        "guid": "57f7186c-b965-437d-b330-f3cd3b0354e8",
+                        "value": {
+                            "attributes": {
+                                "name": "Part"
+                            },
+                            "features": [],
+                            "frame": {
+                                "point": [
+                                    0.20276696853025306,
+                                    0.11678354951829602,
+                                    0.01
+                                ],
+                                "xaxis": [
+                                    0.22928738418313405,
+                                    -0.9733587701636308,
+                                    0.0
+                                ],
+                                "yaxis": [
+                                    -0.9733587701636308,
+                                    -0.22928738418313405,
+                                    1.2246063538223773e-16
+                                ]
+                            },
+                            "key": "2",
+                            "shape": {
+                                "faces": [
+                                    [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    [
+                                        0,
+                                        3,
+                                        5,
+                                        4
+                                    ],
+                                    [
+                                        3,
+                                        2,
+                                        6,
+                                        5
+                                    ],
+                                    [
+                                        2,
+                                        1,
+                                        7,
+                                        6
+                                    ],
+                                    [
+                                        1,
+                                        0,
+                                        4,
+                                        7
+                                    ],
+                                    [
+                                        4,
+                                        5,
+                                        6,
+                                        7
+                                    ]
+                                ],
+                                "vertices": [
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "cf1f1c0f-9a01-45c7-a90a-9bb27263de78",
+                                        "value": [
+                                            -0.03,
+                                            -0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "f7ca998d-2f6e-44cb-99a2-8d7a8c8e8a25",
+                                        "value": [
+                                            -0.03,
+                                            0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "ef901800-66e0-44c5-903d-3311c722764c",
+                                        "value": [
+                                            0.03,
+                                            0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "12173ca4-9229-4cab-9588-fd21b50c1601",
+                                        "value": [
+                                            0.03,
+                                            -0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "60856d00-5522-48f1-b752-ad4e27af87de",
+                                        "value": [
+                                            -0.03,
+                                            -0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "8f8afcaf-b9c1-4616-80a7-d11972e7b438",
+                                        "value": [
+                                            0.03,
+                                            -0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "cf719dd7-ede3-463c-bb07-594da7517a6b",
+                                        "value": [
+                                            0.03,
+                                            0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "346805f4-c487-4dc0-b51e-dfd59b0d64d5",
+                                        "value": [
+                                            -0.03,
+                                            0.015,
+                                            0.01
+                                        ]
+                                    }
+                                ]
+                            },
+                            "transformations": []
+                        }
+                    }
+                },
+                "'3'": {
+                    "part": {
+                        "dtype": "compas.datastructures/Part",
+                        "guid": "663c8613-34e3-4fb8-88dd-3ff835e15974",
+                        "value": {
+                            "attributes": {
+                                "name": "Part"
+                            },
+                            "features": [],
+                            "frame": {
+                                "point": [
+                                    0.22707426023589658,
+                                    0.056410671348052555,
+                                    0.01
+                                ],
+                                "xaxis": [
+                                    0.38512298405267004,
+                                    -0.9228652594796094,
+                                    0.0
+                                ],
+                                "yaxis": [
+                                    -0.9228652594796094,
+                                    -0.38512298405267004,
+                                    1.2246063538223773e-16
+                                ]
+                            },
+                            "key": "3",
+                            "shape": {
+                                "faces": [
+                                    [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    [
+                                        0,
+                                        3,
+                                        5,
+                                        4
+                                    ],
+                                    [
+                                        3,
+                                        2,
+                                        6,
+                                        5
+                                    ],
+                                    [
+                                        2,
+                                        1,
+                                        7,
+                                        6
+                                    ],
+                                    [
+                                        1,
+                                        0,
+                                        4,
+                                        7
+                                    ],
+                                    [
+                                        4,
+                                        5,
+                                        6,
+                                        7
+                                    ]
+                                ],
+                                "vertices": [
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "d1a91664-9b55-4472-ac2e-6ebb2175cb5c",
+                                        "value": [
+                                            -0.03,
+                                            -0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "d7257a54-4d99-4efb-a4a9-56d9922704cb",
+                                        "value": [
+                                            -0.03,
+                                            0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "28bdbde4-202b-4c94-a2f2-6c4657241547",
+                                        "value": [
+                                            0.03,
+                                            0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "b681be15-08e4-4d48-84e0-0b9806220f93",
+                                        "value": [
+                                            0.03,
+                                            -0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "21cfd370-80e3-4ece-8730-61e0d9336674",
+                                        "value": [
+                                            -0.03,
+                                            -0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "6962f086-caee-47a1-960a-e2a4890da7ac",
+                                        "value": [
+                                            0.03,
+                                            -0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "f2008404-cfad-4cd6-b9fa-2c41788a6ea1",
+                                        "value": [
+                                            0.03,
+                                            0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "97b18679-0b12-4635-9ddb-d6c53b96c332",
+                                        "value": [
+                                            -0.03,
+                                            0.015,
+                                            0.01
+                                        ]
+                                    }
+                                ]
+                            },
+                            "transformations": []
+                        }
+                    }
+                },
+                "'4'": {
+                    "part": {
+                        "dtype": "compas.datastructures/Part",
+                        "guid": "c2a3f562-7ac5-4384-8baa-f684fb5f33de",
+                        "value": {
+                            "attributes": {
+                                "name": "Part"
+                            },
+                            "features": [],
+                            "frame": {
+                                "point": [
+                                    0.2557886337138979,
+                                    0.015241968753392605,
+                                    0.01
+                                ],
+                                "xaxis": [
+                                    0.586801283812364,
+                                    -0.8097309758902407,
+                                    0.0
+                                ],
+                                "yaxis": [
+                                    -0.8097309758902407,
+                                    -0.586801283812364,
+                                    1.2246063538223773e-16
+                                ]
+                            },
+                            "key": "4",
+                            "shape": {
+                                "faces": [
+                                    [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    [
+                                        0,
+                                        3,
+                                        5,
+                                        4
+                                    ],
+                                    [
+                                        3,
+                                        2,
+                                        6,
+                                        5
+                                    ],
+                                    [
+                                        2,
+                                        1,
+                                        7,
+                                        6
+                                    ],
+                                    [
+                                        1,
+                                        0,
+                                        4,
+                                        7
+                                    ],
+                                    [
+                                        4,
+                                        5,
+                                        6,
+                                        7
+                                    ]
+                                ],
+                                "vertices": [
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "5f9e773e-1b0c-4938-b66f-6841e4baaefb",
+                                        "value": [
+                                            -0.015,
+                                            -0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "21361ae2-c70b-43bc-90e7-d6c9485fca2a",
+                                        "value": [
+                                            -0.015,
+                                            0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "fa9ff6d7-600d-4c0e-8fd8-339c8d04d108",
+                                        "value": [
+                                            0.015,
+                                            0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "ad274f61-4400-4ac6-81ee-4cb92495f3fb",
+                                        "value": [
+                                            0.015,
+                                            -0.015,
+                                            -0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "af0edecb-540b-4d0f-ae95-2095e661953a",
+                                        "value": [
+                                            -0.015,
+                                            -0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "fd858d6b-3433-4df5-ba61-f5615738de71",
+                                        "value": [
+                                            0.015,
+                                            -0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "3846a497-803c-400a-a3a1-e5a6a49ff753",
+                                        "value": [
+                                            0.015,
+                                            0.015,
+                                            0.01
+                                        ]
+                                    },
+                                    {
+                                        "dtype": "compas.geometry/Point",
+                                        "guid": "306ec33e-a847-4ffd-9134-6308b6c7c302",
+                                        "value": [
+                                            -0.015,
+                                            0.015,
+                                            0.01
+                                        ]
+                                    }
+                                ]
+                            },
+                            "transformations": []
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
