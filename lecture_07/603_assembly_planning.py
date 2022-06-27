@@ -104,8 +104,8 @@ if tool:
 assembly.attributes['start_configuration'] = start_configuration.data
 assembly.attributes['tool'] = tool.data
 
-#for part_key in get_part_sequence():
-for part_key in get_part_sequence()[0:4]:   # NOTE: For quick testing, only take the first few parts in the sequence
+for part_key in get_part_sequence():
+# for part_key in get_part_sequence()[0:4]:   # NOTE: For quick testing, only take the first few parts in the sequence
     part = assembly.graph.node_attribute(part_key, "part")
 
     scene = PlanningScene(robot)
@@ -223,7 +223,8 @@ for part_key in get_part_sequence()[0:4]:   # NOTE: For quick testing, only take
     )
 
     if place_trajectory_after.fraction < 1.0:
-        raise Exception("Found a place trajectory (after) but it is not complete")
+        # raise Exception("Found a place trajectory (after) but it is not complete")
+        print("Found a place trajectory (after) but it is not complete")
 
     print(" [OK]")
     part.attributes["place_trajectory_after"] = place_trajectory_after
@@ -271,3 +272,4 @@ compas.json_dump(
     os.path.join(HERE, "603_assembly_planning.json"),
     pretty=True,
 )
+print('done')
