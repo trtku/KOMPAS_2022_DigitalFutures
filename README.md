@@ -47,7 +47,7 @@ Lectures, tutorials and exercises will focus on / WSでは以下の内容に焦�
 * [Github Desktop](https://desktop.github.com/)
 * [Rhino 6/7 & Grasshopper](https://www.rhino3d.com/download)
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [Docker Desktop](https://www.docker.com/products/docker-desktop) After installation on Windows, it is required to enable "Virtualization" on the BIOS of the computer. / インスタレーション後に、使用コンピュータのBIOSでのVirtualizationをEnableする必要があります。
+* [Docker Desktop](https://www.docker.com/products/docker-desktop) After installation on Windows, it is required to enable "Virtualization" on the BIOS of the computer. / windowsではインスタレーション後に、使用コンピュータのBIOSでのVirtualizationをEnableする必要があります。👉[how to enable](https://bce.berkeley.edu/enabling-virtualization-in-your-pc-bios.html) / 👉[enableのやりかた](https://support.lenovo.com/it/ja/solutions/ht500006)
 
 ## Installation / インストール手順
 
